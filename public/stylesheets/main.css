@@ -1,0 +1,43 @@
+body{
+background: #4B79A1;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #283E51, #4B79A1);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #283E51, #4B79A1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+a{
+    color: yellow;
+}
+
+.copyright{
+    text-align: center;
+    color: #fff;
+    opacity: 0.5;
+}
+
+
+#container{
+    width: 500px;
+    height:500px;
+	margin: 100px auto;
+
+}
+#logo{
+    width: 70%;
+    height: 70px;
+    float: right;
+}
+#logo1{
+    width: 50%;
+    height: 50px;
+   
+}
+.verify{
+    width: 100%;
+    
+}
+    
+.verified{
+    color: floralwhite;
+}
+

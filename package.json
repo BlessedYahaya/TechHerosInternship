@@ -1,0 +1,18 @@
+{
+  "name": "bvn",
+  "version": "1.0.0",
+  "description": "This verifies bvn using rave ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+    
+  },
+  "author": "Blessed Yahaya",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "request": "^2.88.0"
+  }
+}
